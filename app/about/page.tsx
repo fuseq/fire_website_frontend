@@ -24,7 +24,7 @@ export default function AboutPage() {
         <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
             <div>
-              <img src="/about_us.jpeg" alt="Şirket" className="rounded-lg" />
+              <img src="/main_page_image.jpeg" alt="Şirket" className="rounded-lg" />
             </div>
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Bizim Hikayemiz</h2>
