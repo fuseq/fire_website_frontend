@@ -87,7 +87,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="hidden md:block">
-                <img src="/professional-fire-safety-equipment.jpg" alt="Yangın Güvenliği" className="w-full h-auto" />
+                <img src="/main_page_image.jpeg" alt="Yangın Güvenliği" className="w-full h-auto" />
               </div>
             </div>
           </div>
