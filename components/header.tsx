@@ -28,7 +28,7 @@ export function Header() {
               <div className="w-8 h-8 bg-red-600 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold">🔥</span>
               </div>
-              <span className="text-xl font-bold text-gray-900 whitespace-nowrap">Şirket İsmi </span>
+              <span className="text-xl font-bold text-gray-900 whitespace-nowrap">Ülküm Yangın Sistemleri </span>
             </Link>
           </div>
 

@@ -65,7 +65,7 @@ export default function RegisterPage() {
           <div className="w-12 h-12 bg-red-600 rounded-lg flex items-center justify-center mx-auto mb-4">
             <span className="text-2xl">🔥</span>
           </div>
-          <h1 className="text-3xl font-bold text-gray-900">Şirket İsmi </h1>
+          <h1 className="text-3xl font-bold text-gray-900">Ülküm Yangın Sistemleri </h1>
           <p className="text-gray-600 mt-2">Yeni Hesap Oluşturun</p>
         </div>
 

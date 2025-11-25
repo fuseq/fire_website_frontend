@@ -574,7 +574,7 @@ export default function CheckoutPage() {
                       <div className="space-y-2 text-sm text-gray-700">
                         <p><strong>Banka:</strong> Ziraat Bankası</p>
                         <p><strong>IBAN:</strong> TR00 0000 0000 0000 0000 0000 00</p>
-                        <p><strong>Alıcı:</strong> Şirket İsmi  Güvenlik Ltd. Şti.</p>
+                        <p><strong>Alıcı:</strong> Ülküm Yangın Sistemleri</p>
                         <p className="mt-3 text-gray-600">
                           Havale/EFT açıklamasına sipariş numaranızı yazınız.
                         </p>

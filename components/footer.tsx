@@ -12,7 +12,7 @@ export function Footer() {
               <div className="w-10 h-10 bg-gradient-to-br from-red-600 to-red-700 rounded-xl shadow-lg flex items-center justify-center">
                 <span className="text-white font-bold text-xl">🔥</span>
               </div>
-              <span className="text-2xl font-bold">Şirket İsmi </span>
+              <span className="text-2xl font-bold">Ülküm Yangın Sistemleri </span>
             </div>
             <p className="text-gray-400 text-sm">
               Yangın güvenliği için en güvenilir ve profesyonel çözümler sunuyoruz.
@@ -72,7 +72,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center text-gray-400 text-sm">
-          <p>&copy; 2025 Şirket İsmi . Tüm hakları saklıdır.</p>
+          <p>&copy; 2025 Ülküm Yangın Sistemleri . Tüm hakları saklıdır.</p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <Link href="#" className="hover:text-red-400 transition">
               Gizlilik Politikası

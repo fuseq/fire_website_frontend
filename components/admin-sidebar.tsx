@@ -32,7 +32,7 @@ export function AdminSidebar() {
             <span className="text-white text-xl font-bold">🔥</span>
           </div>
           <div>
-            <h2 className="text-lg font-bold">Şirket İsmi </h2>
+            <h2 className="text-lg font-bold">Ülküm Yangın Sistemleri </h2>
             <p className="text-xs text-gray-400">Admin Panel</p>
           </div>
         </div>

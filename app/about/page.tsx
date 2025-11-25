@@ -29,7 +29,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Bizim Hikayemiz</h2>
               <p className="text-gray-600 mb-4 leading-relaxed">
-                Şirket İsmi , 2010 yılında kurulmuş ve o günden beri yangın güvenliği alanında lider rol oynayan bir
+                Ülküm Yangın Sistemleri , 2010 yılında kurulmuş ve o günden beri yangın güvenliği alanında lider rol oynayan bir
                 şirkettir. Milyonlarca insanın ve işletmenin güvenliğini sağlamak için çalışıyoruz.
               </p>
               <p className="text-gray-600 mb-4 leading-relaxed">

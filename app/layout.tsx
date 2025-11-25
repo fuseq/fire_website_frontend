@@ -11,7 +11,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Şirket İsmi - Yangın Güvenliği Ürünleri",
+  title: "Ülküm Yangın Sistemleri - Yangın Güvenliği Ürünleri",
   description: "Profesyonel yangın söndürme ve güvenlik ürünleri",
   generator: "v0.app",
 }
