@@ -93,40 +93,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Trust Indicators */}
-        <section className="bg-gray-50 py-12 border-b border-gray-200">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-              <div className="flex items-center gap-4">
-                <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                  <Shield className="w-6 h-6 text-red-600" />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-gray-900">CE Sertifikalı Ürünler</h3>
-                  <p className="text-sm text-gray-600">Uluslararası güvenlik standartlarına uygun</p>
-                </div>
-              </div>
-              <div className="flex items-center gap-4">
-                <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                  <Truck className="w-6 h-6 text-red-600" />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-gray-900">Hızlı Teslimat</h3>
-                  <p className="text-sm text-gray-600">Türkiye'nin her yerine 2-3 gün içinde</p>
-                </div>
-              </div>
-              <div className="flex items-center gap-4">
-                <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                  <Award className="w-6 h-6 text-red-600" />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-gray-900">15+ Yıl Tecrübe</h3>
-                  <p className="text-sm text-gray-600">Güvenlik endüstrisinde uzman hizmet</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+
 
         {/* Featured Products */}
         <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">

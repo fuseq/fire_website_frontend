@@ -297,3 +297,6 @@ Yangın Güvenlik E-Ticaret Frontend
 
 **📦 Backend API:** `https://backend-yangin-guvenlik.yourdomain.com`
 
+
+
+

@@ -40,9 +40,7 @@ export function Header() {
             <Link href="/products" className="text-gray-600 hover:text-red-600 transition font-medium whitespace-nowrap">
               Ürünler
             </Link>
-            <Link href="/about" className="text-gray-600 hover:text-red-600 transition font-medium whitespace-nowrap">
-              Hakkımızda
-            </Link>
+         
             <Link href="/contact" className="text-gray-600 hover:text-red-600 transition font-medium whitespace-nowrap">
               İletişim
             </Link>

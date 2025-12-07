@@ -345,3 +345,6 @@ Herhangi bir sorunla karşılaşırsanız:
 Backend: `https://backend-yangin-guvenlik.yourdomain.com`
 Frontend: `https://yangin-guvenlik.yourdomain.com`
 
+
+
+

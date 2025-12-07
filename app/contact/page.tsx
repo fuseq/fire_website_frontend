@@ -54,8 +54,9 @@ export default function ContactPage() {
                 <Phone className="w-6 h-6 text-red-600" />
               </div>
               <h3 className="font-bold text-lg text-gray-900 mb-2">Telefon</h3>
-              <p className="text-gray-600 mb-4">+90 (212) 555-0100</p>
-              <p className="text-sm text-gray-500">Pazartesi - Cuma: 09:00 - 18:00</p>
+              <p className="text-gray-600 mb-4">+90 (531) 667-95-31</p>
+              <p className="text-gray-600 mb-4">+90 (505) 523-84-95</p>
+           
             </div>
 
             <div className="bg-white rounded-xl border border-gray-200 p-8 text-center hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
@@ -63,7 +64,7 @@ export default function ContactPage() {
                 <Mail className="w-6 h-6 text-red-600" />
               </div>
               <h3 className="font-bold text-lg text-gray-900 mb-2">E-mail</h3>
-              <p className="text-gray-600 mb-4">info@sirketismi.com</p>
+              <p className="text-gray-600 mb-4">ulkumyangin@gmail.com</p>
               <p className="text-sm text-gray-500">Hızlı cevap için e-mail gönderin</p>
             </div>
 
@@ -72,8 +73,8 @@ export default function ContactPage() {
                 <MapPin className="w-6 h-6 text-red-600" />
               </div>
               <h3 className="font-bold text-lg text-gray-900 mb-2">Adres</h3>
-              <p className="text-gray-600 mb-4">İstanbul, Türkiye</p>
-              <p className="text-sm text-gray-500">Haftanın 7 günü hizmetinizdeyiz</p>
+              <p className="text-gray-600 mb-4">Alaylar iki mah. 152349 sok. A blok no:2D Seydişehir/Konya</p>
+          
             </div>
           </div>
         </section>

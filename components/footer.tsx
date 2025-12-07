@@ -41,15 +41,16 @@ export function Footer() {
             <div className="flex flex-col gap-3 text-gray-400 text-sm">
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>+90 (212) 555-0100</span>
+                <span>+90 (531) 667-95-31</span>
+                
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <span>info@sirketismi.com</span>
+                <span>ulkumyangin@gmail.com</span>
               </div>
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-1" />
-                <span>İstanbul, Türkiye</span>
+                <span>Konya, Türkiye</span>
               </div>
             </div>
           </div>
